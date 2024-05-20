@@ -4,9 +4,11 @@ Studying computer enginering in CEFET-MG.
 
 Languages that i know:
 
-            <i class="devicon-java-plain-wordmark colored"></i>
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="40" height="40"/>
+          
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
           
           
 
