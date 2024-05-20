@@ -3,6 +3,7 @@
 I'm 20 years, living in Belo Horizonte (MG), Brazil. Always giving my best in mine projects. Love to program and learn new skills.
 
 Studying computer enginering in CEFET-MG.
+
 Studying coding in ALURA.
 
 
