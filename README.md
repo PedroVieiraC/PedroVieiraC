@@ -9,19 +9,21 @@ Studying coding in ALURA.
 Studying to be a full stack dev.
 
 
-
+<div>
 ### Languages that I know:
             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="100"/>
-
-
-### Learning now:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100"/>
           
+
+### Learning now:            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100" /> 
+</div>
+
 <div>
 <a href="https://github.com/PedroVieiraC">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraC&layout=compact&langs_count=7&theme=dracula"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
           
