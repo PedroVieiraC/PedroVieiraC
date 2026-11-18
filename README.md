@@ -44,7 +44,7 @@ I enjoy exploring how technology, data and business connect — always looking t
 
 ### GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=github_dark&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraC&layout=donut&langs_count=6&theme=github_dark&hide_border=true"/>
 </div>
 <div>
