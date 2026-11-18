@@ -42,8 +42,9 @@ I enjoy exploring how technology, data and business connect — always looking t
 
 ---
 
-### Most used languages
+### GitHub Stats
 <div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=dracula&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
