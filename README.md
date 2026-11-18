@@ -5,19 +5,19 @@ I enjoy exploring how technology, data and business connect — always looking t
 
 ---
 
-### 🔭 What I work with
+### What I work with
 - **Enterprise apps** in JavaScript on the **Sydle One** platform (portals, services and automation routines).
 - **Full-stack web** with **React**, **Node.js**, **Express** and **PostgreSQL**.
 - **Data and machine learning** with **Python**: time series, classifiers, stacking and Kaggle competitions.
 - **AI-assisted workflows**: prompt engineering and content automation, pairing with Claude Code and Cursor.
 
-### 🌱 Currently
+### Currently
 - Building my thesis: predicting goals and corners in the Brazilian league with **Poisson Regression, Random Forest and XGBoost** (Python + PostgreSQL).
 - Strengthening my **C++** foundation for competitive programming.
 
 ---
 
-### 🧠 Languages
+### Languages
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/>
@@ -28,7 +28,7 @@ I enjoy exploring how technology, data and business connect — always looking t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60"/>
 </div>
 
-### 🛠️ Tools
+### Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
@@ -41,7 +41,7 @@ I enjoy exploring how technology, data and business connect — always looking t
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraC&layout=compact&langs_count=7&theme=dracula"/>
