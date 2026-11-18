@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Pedro Vieira
+### Hi, I'm Pedro Vieira
 
 I'm a 23-year-old Computer Engineering student at **CEFET-MG** and a software engineer at **EloGroup**, living in **Belo Horizonte, Brazil**.  
 I enjoy exploring how technology, data and business connect — always looking to improve my technical and analytical skills.
@@ -11,9 +11,10 @@ I enjoy exploring how technology, data and business connect — always looking t
 - **Data and machine learning** with **Python**: time series, classifiers, stacking and Kaggle competitions.
 - **AI-assisted workflows**: prompt engineering and content automation, pairing with Claude Code and Cursor.
 
-### Currently
-- Building my thesis: predicting goals and corners in the Brazilian league with **Poisson Regression, Random Forest and XGBoost** (Python + PostgreSQL).
-- Strengthening my **C++** foundation for competitive programming.
+> [!NOTE]
+> **Currently**
+> - Building my thesis: predicting goals and corners in the Brazilian league with **Poisson Regression, Random Forest and XGBoost** (Python + PostgreSQL).
+> - Strengthening my **C++** foundation for competitive programming.
 
 ---
 
@@ -43,15 +44,18 @@ I enjoy exploring how technology, data and business connect — always looking t
 
 ### GitHub Stats
 <div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraC&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroVieiraC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraC&layout=donut-vertical&langs_count=6&theme=github_dark&hide_border=true"/>
+</div>
+<div>
+  <img src="https://streak-stats.demolab.com?user=PedroVieiraC&theme=github-dark&hide_border=true"/>
 </div>
 
 ---
 
-💬 *Always open to collaborations and new challenges.*
+*Always open to collaborations and new challenges.*
 
-### 🌐 Connect with me
+### Connect with me
 <div>
   <a href="https://www.linkedin.com/in/pedro-vieira-a61133254" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/pedro.vieirac" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
